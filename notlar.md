@@ -3,6 +3,7 @@
 
 ### Eğer binlerce dosya source control kısmında gözüküyorsa
 - .gitignore dosyası eklenip, commit edilmesi gerekir.
+- .gitignore dosyasına /node_modules eklenebilir.
 - öncesinde git status ile bakılmalı
 
 ### Var olan bir projeyi github'a yüklemek için
