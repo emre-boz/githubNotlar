@@ -14,6 +14,11 @@
 - önce **git fetch** sonra **git diff branchIsmi origin/branchIsmi**
 - şablonu ise bu **git diff <mainbranch_path> <remotebranch_path>** 
 
+### Var olan bir branch'ın ismini değiştimek için
+- o branch'ta
+- **git branch -m new-branch-name**
+
+
 ## Kodluyoruz
 - **git init** initilaze başlatma
 - **git add** ekliyor önce staging area'ya
