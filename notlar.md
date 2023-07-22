@@ -18,6 +18,10 @@
 - o branch'ta
 - **git branch -m new-branch-name**
 
+### branch'ı silmek için
+- local'den silmek için: **git branch -d localBranchName**
+- remote'dan silmek için(github) **git push origin --delete remoteBranchName**
+
 
 ## Kodluyoruz
 - **git init** initilaze başlatma
