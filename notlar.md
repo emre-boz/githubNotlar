@@ -22,6 +22,9 @@
 - local'den silmek için: **git branch -d localBranchName**
 - remote'dan silmek için(github) **git push origin --delete remoteBranchName**
 
+### Var olanı çekmek için
+- **git pull** demek yeterli. ancak öncesinde bağlantı kurulmuş olması gerek.
+
 
 ## Kodluyoruz
 - **git init** initilaze başlatma
