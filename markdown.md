@@ -1,3 +1,9 @@
+## Useful
+- mark down'a dosyanın yolunu link gibi verebilmek için kopyalayıp md dosyasının içine yapıştırmak yeterli. doğrudan kendisi path'i ve yapıyı oluşturuyor.
+```md
+[Title](notlar.md)
+```
+
 ## Diyeze göre başlık
 ### Diyeze göre başlık
 
@@ -66,3 +72,4 @@ function helloWorld(){
 ***
 - markdown syntax için : [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Tablo oluşturmak için [Link](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
